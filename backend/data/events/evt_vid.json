@@ -1,0 +1,23 @@
+{
+  "video_id": "evt_vid",
+  "events": [
+    {
+      "event_id": 1,
+      "scene_id": 1,
+      "start": 0.0,
+      "end": 5.0,
+      "duration": 5.0,
+      "speech": "Hello world. More talk.",
+      "caption": "A cat on a table",
+      "objects": [
+        "cat"
+      ],
+      "activities": [
+        "sitting"
+      ],
+      "scene_type": "indoor",
+      "confidence": 0.8,
+      "summary": "Hello world. More talk."
+    }
+  ]
+}

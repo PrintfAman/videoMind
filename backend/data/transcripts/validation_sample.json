@@ -1,0 +1,12 @@
+{
+  "id": "validation_sample",
+  "language": "en",
+  "duration": 5.0,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "ighter swing"
+    }
+  ]
+}

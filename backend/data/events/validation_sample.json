@@ -1,0 +1,19 @@
+{
+  "video_id": "validation_sample",
+  "events": [
+    {
+      "event_id": 1,
+      "scene_id": "segment_1",
+      "start": 0.0,
+      "end": 5.0,
+      "duration": 5.0,
+      "speech": "ighter swing",
+      "caption": "",
+      "objects": [],
+      "activities": [],
+      "scene_type": "transcript",
+      "confidence": null,
+      "summary": "ighter swing"
+    }
+  ]
+}

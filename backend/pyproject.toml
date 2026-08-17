@@ -1,0 +1,20 @@
+[project]
+name = "videomind-ai-backend"
+version = "0.1.0"
+description = "Production-ready foundation for VideoMind AI backend"
+readme = "../README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi>=0.111.0",
+  "uvicorn[standard]>=0.30.0",
+  "pydantic-settings>=2.3.0",
+  "python-dotenv>=1.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.3.0"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

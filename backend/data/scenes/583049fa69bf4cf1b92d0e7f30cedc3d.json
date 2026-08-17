@@ -1,0 +1,18 @@
+{
+  "video_id": "583049fa69bf4cf1b92d0e7f30cedc3d",
+  "scene_count": 2,
+  "scenes": [
+    {
+      "scene_id": 1,
+      "start": 0.0,
+      "end": 1.5,
+      "keyframe": "583049fa69bf4cf1b92d0e7f30cedc3d_scene001.jpg"
+    },
+    {
+      "scene_id": 2,
+      "start": 1.5,
+      "end": 3.0,
+      "keyframe": "583049fa69bf4cf1b92d0e7f30cedc3d_scene002.jpg"
+    }
+  ]
+}

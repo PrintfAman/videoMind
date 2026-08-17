@@ -1,0 +1,33 @@
+{
+  "video_id": "evt_transcript_only",
+  "events": [
+    {
+      "event_id": 1,
+      "scene_id": "segment_1",
+      "start": 0.0,
+      "end": 2.0,
+      "duration": 2.0,
+      "speech": "person enters kitchen",
+      "caption": "",
+      "objects": [],
+      "activities": [],
+      "scene_type": "transcript",
+      "confidence": null,
+      "summary": "person enters kitchen"
+    },
+    {
+      "event_id": 2,
+      "scene_id": "segment_2",
+      "start": 2.0,
+      "end": 4.0,
+      "duration": 2.0,
+      "speech": "someone cooks food",
+      "caption": "",
+      "objects": [],
+      "activities": [],
+      "scene_type": "transcript",
+      "confidence": null,
+      "summary": "someone cooks food"
+    }
+  ]
+}

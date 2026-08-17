@@ -1,0 +1,17 @@
+{
+  "video_id": "vid_test",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "caption": "Professor explaining",
+      "objects": [
+        "person"
+      ],
+      "activities": [
+        "talking"
+      ],
+      "scene_type": "lecture",
+      "confidence": 0.9
+    }
+  ]
+}

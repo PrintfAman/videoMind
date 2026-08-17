@@ -1,0 +1,9 @@
+{
+  "video": "C:\\Users\\amanp\\videomind\\videomind-ai\\backend\\data\\videos\\040b24216a944e039c32c9a34749ed4c.mp4",
+  "memory_before": null,
+  "memory_after": null,
+  "report": {
+    "success": false,
+    "error": "Required executable 'ffprobe' not found in PATH"
+  }
+}
